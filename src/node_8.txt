@@ -1,0 +1,210 @@
+Entering CS - Node 8
+Current physical time: 1425602844695
+Current physical time: 1425602844725
+Entering CS - Node 8
+Current physical time: 1425602845609
+Current physical time: 1425602845639
+Entering CS - Node 8
+Current physical time: 1425602846280
+Current physical time: 1425602846310
+Entering CS - Node 8
+Current physical time: 1425602847173
+Current physical time: 1425602847203
+Entering CS - Node 8
+Current physical time: 1425602847949
+Current physical time: 1425602847979
+Entering CS - Node 8
+Current physical time: 1425602848667
+Current physical time: 1425602848697
+Entering CS - Node 8
+Current physical time: 1425602849378
+Current physical time: 1425602849408
+Entering CS - Node 8
+Current physical time: 1425602850221
+Current physical time: 1425602850252
+Entering CS - Node 8
+Current physical time: 1425602850849
+Current physical time: 1425602850879
+Entering CS - Node 8
+Current physical time: 1425602851542
+Current physical time: 1425602851572
+Entering CS - Node 8
+Current physical time: 1425602852230
+Current physical time: 1425602852260
+Entering CS - Node 8
+Current physical time: 1425602853084
+Current physical time: 1425602853114
+Entering CS - Node 8
+Current physical time: 1425602853809
+Current physical time: 1425602853839
+Entering CS - Node 8
+Current physical time: 1425602854598
+Current physical time: 1425602854628
+Entering CS - Node 8
+Current physical time: 1425602855580
+Current physical time: 1425602855611
+Entering CS - Node 8
+Current physical time: 1425602856177
+Current physical time: 1425602856207
+Entering CS - Node 8
+Current physical time: 1425602856972
+Current physical time: 1425602857003
+Entering CS - Node 8
+Current physical time: 1425602857594
+Current physical time: 1425602857624
+Entering CS - Node 8
+Current physical time: 1425602858291
+Current physical time: 1425602858321
+Entering CS - Node 8
+Current physical time: 1425602859180
+Current physical time: 1425602859210
+Entering CS - Node 8
+Current physical time: 1425602859938
+Current physical time: 1425602859968
+Entering CS - Node 8
+Current physical time: 1425602860940
+Current physical time: 1425602860970
+Entering CS - Node 8
+Current physical time: 1425602861846
+Current physical time: 1425602861876
+Entering CS - Node 8
+Current physical time: 1425602862789
+Current physical time: 1425602862820
+Entering CS - Node 8
+Current physical time: 1425602863916
+Current physical time: 1425602863946
+Entering CS - Node 8
+Current physical time: 1425602865019
+Current physical time: 1425602865049
+Entering CS - Node 8
+Current physical time: 1425602866108
+Current physical time: 1425602866138
+Entering CS - Node 8
+Current physical time: 1425602867384
+Current physical time: 1425602867414
+Entering CS - Node 8
+Current physical time: 1425602868411
+Current physical time: 1425602868441
+Entering CS - Node 8
+Current physical time: 1425602869598
+Current physical time: 1425602869628
+Entering CS - Node 8
+Current physical time: 1425602870422
+Current physical time: 1425602870452
+Entering CS - Node 8
+Current physical time: 1425602871385
+Current physical time: 1425602871415
+Entering CS - Node 8
+Current physical time: 1425602872127
+Current physical time: 1425602872157
+Entering CS - Node 8
+Current physical time: 1425602872770
+Current physical time: 1425602872800
+Entering CS - Node 8
+Current physical time: 1425602873439
+Current physical time: 1425602873469
+Entering CS - Node 8
+Current physical time: 1425602874108
+Current physical time: 1425602874138
+Entering CS - Node 8
+Current physical time: 1425602874719
+Current physical time: 1425602874749
+Entering CS - Node 8
+Current physical time: 1425602875336
+Current physical time: 1425602875366
+Entering CS - Node 8
+Current physical time: 1425602876082
+Current physical time: 1425602876112
+Entering CS - Node 8
+Current physical time: 1425602876716
+Current physical time: 1425602876746
+DATA COLLECTION:
+CS entry            Latency   Msgs exchanged(Req sent+reply received)
+
+1                   299       18        
+
+2                   781       18        
+
+3                   513       18        
+
+4                   741       18        
+
+5                   616       18        
+
+6                   575       18        
+
+7                   596       16        
+
+8                   732       16        
+
+9                   523       16        
+
+10                  552       18        
+
+11                  543       18        
+
+12                  744       18        
+
+13                  583       18        
+
+14                  652       18        
+
+15                  866       18        
+
+16                  472       16        
+
+17                  646       18        
+
+18                  475       16        
+
+19                  551       16        
+
+20                  731       18        
+
+21                  606       18        
+
+22                  450       18        
+
+23                  364       16        
+
+24                  386       18        
+
+25                  484       18        
+
+26                  506       18        
+
+27                  478       18        
+
+28                  720       18        
+
+29                  435       18        
+
+30                  558       18        
+
+31                  307       18        
+
+32                  425       18        
+
+33                  196       8         
+
+34                  107       8         
+
+35                  78        8         
+
+36                  157       8         
+
+37                  75        6         
+
+38                  81        8         
+
+39                  175       8         
+
+40                  83        8         
+
+Total Msgs sent :622
+	Total Requests sent :312
+	Total Replies sent :310
+Total Msgs received :622
+	Total Requests received :310
+	Total Replies received :312
+Total Msgs exchanged((Requests sent+replies Received) :624

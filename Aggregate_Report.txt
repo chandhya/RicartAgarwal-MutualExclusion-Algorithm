@@ -1,0 +1,1176 @@
+Entering CS - Node 1
+Current physical time: 1425602844396
+Current physical time: 1425602844426
+Entering CS - Node 2
+Current physical time: 1425602844474
+Current physical time: 1425602844528
+Entering CS - Node 3
+Current physical time: 1425602844580
+Current physical time: 1425602844611
+Entering CS - Node 8
+Current physical time: 1425602844695
+Current physical time: 1425602844725
+Entering CS - Node 4
+Current physical time: 1425602844784
+Current physical time: 1425602844814
+Entering CS - Node 5
+Current physical time: 1425602844862
+Current physical time: 1425602844892
+Entering CS - Node 6
+Current physical time: 1425602844954
+Current physical time: 1425602844985
+Entering CS - Node 9
+Current physical time: 1425602845042
+Current physical time: 1425602845072
+Entering CS - Node 7
+Current physical time: 1425602845121
+Current physical time: 1425602845239
+Entering CS - Node 12
+Current physical time: 1425602845288
+Current physical time: 1425602845318
+Entering CS - Node 1
+Current physical time: 1425602845371
+Current physical time: 1425602845401
+Entering CS - Node 2
+Current physical time: 1425602845451
+Current physical time: 1425602845481
+Entering CS - Node 3
+Current physical time: 1425602845530
+Current physical time: 1425602845561
+Entering CS - Node 8
+Current physical time: 1425602845609
+Current physical time: 1425602845639
+Entering CS - Node 4
+Current physical time: 1425602845687
+Current physical time: 1425602845717
+Entering CS - Node 5
+Current physical time: 1425602845764
+Current physical time: 1425602845795
+Entering CS - Node 6
+Current physical time: 1425602845845
+Current physical time: 1425602845875
+Entering CS - Node 9
+Current physical time: 1425602845921
+Current physical time: 1425602845952
+Entering CS - Node 12
+Current physical time: 1425602845966
+Current physical time: 1425602845997
+Entering CS - Node 1
+Current physical time: 1425602846044
+Current physical time: 1425602846074
+Entering CS - Node 2
+Current physical time: 1425602846122
+Current physical time: 1425602846152
+Entering CS - Node 3
+Current physical time: 1425602846201
+Current physical time: 1425602846232
+Entering CS - Node 8
+Current physical time: 1425602846280
+Current physical time: 1425602846310
+Entering CS - Node 4
+Current physical time: 1425602846366
+Current physical time: 1425602846396
+Entering CS - Node 5
+Current physical time: 1425602846441
+Current physical time: 1425602846472
+Entering CS - Node 6
+Current physical time: 1425602846519
+Current physical time: 1425602846549
+Entering CS - Node 9
+Current physical time: 1425602846595
+Current physical time: 1425602846626
+Entering CS - Node 12
+Current physical time: 1425602846674
+Current physical time: 1425602846704
+Entering CS - Node 7
+Current physical time: 1425602846782
+Current physical time: 1425602846812
+Entering CS - Node 1
+Current physical time: 1425602846861
+Current physical time: 1425602846891
+Entering CS - Node 2
+Current physical time: 1425602846939
+Current physical time: 1425602847048
+Entering CS - Node 3
+Current physical time: 1425602847095
+Current physical time: 1425602847125
+Entering CS - Node 8
+Current physical time: 1425602847173
+Current physical time: 1425602847203
+Entering CS - Node 4
+Current physical time: 1425602847250
+Current physical time: 1425602847280
+Entering CS - Node 5
+Current physical time: 1425602847326
+Current physical time: 1425602847356
+Entering CS - Node 6
+Current physical time: 1425602847404
+Current physical time: 1425602847434
+Entering CS - Node 9
+Current physical time: 1425602847481
+Current physical time: 1425602847512
+Entering CS - Node 7
+Current physical time: 1425602847522
+Current physical time: 1425602847553
+Entering CS - Node 12
+Current physical time: 1425602847629
+Current physical time: 1425602847660
+Entering CS - Node 1
+Current physical time: 1425602847718
+Current physical time: 1425602847748
+Entering CS - Node 2
+Current physical time: 1425602847795
+Current physical time: 1425602847825
+Entering CS - Node 3
+Current physical time: 1425602847871
+Current physical time: 1425602847901
+Entering CS - Node 8
+Current physical time: 1425602847949
+Current physical time: 1425602847979
+Entering CS - Node 4
+Current physical time: 1425602848026
+Current physical time: 1425602848056
+Entering CS - Node 5
+Current physical time: 1425602848101
+Current physical time: 1425602848132
+Entering CS - Node 6
+Current physical time: 1425602848186
+Current physical time: 1425602848216
+Entering CS - Node 9
+Current physical time: 1425602848263
+Current physical time: 1425602848293
+Entering CS - Node 7
+Current physical time: 1425602848341
+Current physical time: 1425602848371
+Entering CS - Node 12
+Current physical time: 1425602848432
+Current physical time: 1425602848462
+Entering CS - Node 1
+Current physical time: 1425602848510
+Current physical time: 1425602848541
+Entering CS - Node 3
+Current physical time: 1425602848555
+Current physical time: 1425602848585
+Entering CS - Node 2
+Current physical time: 1425602848587
+Current physical time: 1425602848618
+Entering CS - Node 8
+Current physical time: 1425602848667
+Current physical time: 1425602848697
+Entering CS - Node 4
+Current physical time: 1425602848743
+Current physical time: 1425602848774
+Entering CS - Node 5
+Current physical time: 1425602848821
+Current physical time: 1425602848851
+Entering CS - Node 6
+Current physical time: 1425602848899
+Current physical time: 1425602848929
+Entering CS - Node 9
+Current physical time: 1425602848976
+Current physical time: 1425602849007
+Entering CS - Node 7
+Current physical time: 1425602849069
+Current physical time: 1425602849099
+Entering CS - Node 12
+Current physical time: 1425602849146
+Current physical time: 1425602849176
+Entering CS - Node 1
+Current physical time: 1425602849223
+Current physical time: 1425602849254
+Entering CS - Node 3
+Current physical time: 1425602849300
+Current physical time: 1425602849330
+Entering CS - Node 8
+Current physical time: 1425602849378
+Current physical time: 1425602849408
+Entering CS - Node 2
+Current physical time: 1425602849504
+Current physical time: 1425602849535
+Entering CS - Node 4
+Current physical time: 1425602849582
+Current physical time: 1425602849612
+Entering CS - Node 5
+Current physical time: 1425602849658
+Current physical time: 1425602849689
+Entering CS - Node 6
+Current physical time: 1425602849737
+Current physical time: 1425602849767
+Entering CS - Node 9
+Current physical time: 1425602849816
+Current physical time: 1425602849846
+Entering CS - Node 7
+Current physical time: 1425602849895
+Current physical time: 1425602849925
+Entering CS - Node 12
+Current physical time: 1425602849977
+Current physical time: 1425602850007
+Entering CS - Node 1
+Current physical time: 1425602850062
+Current physical time: 1425602850092
+Entering CS - Node 3
+Current physical time: 1425602850138
+Current physical time: 1425602850169
+Entering CS - Node 8
+Current physical time: 1425602850221
+Current physical time: 1425602850252
+Entering CS - Node 2
+Current physical time: 1425602850258
+Current physical time: 1425602850288
+Entering CS - Node 4
+Current physical time: 1425602850336
+Current physical time: 1425602850366
+Entering CS - Node 5
+Current physical time: 1425602850411
+Current physical time: 1425602850442
+Entering CS - Node 6
+Current physical time: 1425602850490
+Current physical time: 1425602850520
+Entering CS - Node 9
+Current physical time: 1425602850568
+Current physical time: 1425602850599
+Entering CS - Node 7
+Current physical time: 1425602850647
+Current physical time: 1425602850677
+Entering CS - Node 12
+Current physical time: 1425602850726
+Current physical time: 1425602850756
+Entering CS - Node 1
+Current physical time: 1425602850804
+Current physical time: 1425602850834
+Entering CS - Node 8
+Current physical time: 1425602850849
+Current physical time: 1425602850879
+Entering CS - Node 3
+Current physical time: 1425602850881
+Current physical time: 1425602850912
+Entering CS - Node 2
+Current physical time: 1425602850980
+Current physical time: 1425602851011
+Entering CS - Node 4
+Current physical time: 1425602851076
+Current physical time: 1425602851106
+Entering CS - Node 5
+Current physical time: 1425602851153
+Current physical time: 1425602851183
+Entering CS - Node 6
+Current physical time: 1425602851233
+Current physical time: 1425602851263
+Entering CS - Node 9
+Current physical time: 1425602851320
+Current physical time: 1425602851350
+Entering CS - Node 12
+Current physical time: 1425602851377
+Current physical time: 1425602851408
+Entering CS - Node 7
+Current physical time: 1425602851409
+Current physical time: 1425602851439
+Entering CS - Node 1
+Current physical time: 1425602851460
+Current physical time: 1425602851491
+Entering CS - Node 8
+Current physical time: 1425602851542
+Current physical time: 1425602851572
+Entering CS - Node 3
+Current physical time: 1425602851620
+Current physical time: 1425602851650
+Entering CS - Node 2
+Current physical time: 1425602851658
+Current physical time: 1425602851688
+Entering CS - Node 4
+Current physical time: 1425602851736
+Current physical time: 1425602851766
+Entering CS - Node 5
+Current physical time: 1425602851830
+Current physical time: 1425602851860
+Entering CS - Node 6
+Current physical time: 1425602851914
+Current physical time: 1425602851944
+Entering CS - Node 12
+Current physical time: 1425602851955
+Current physical time: 1425602851985
+Entering CS - Node 9
+Current physical time: 1425602851994
+Current physical time: 1425602852025
+Entering CS - Node 7
+Current physical time: 1425602852074
+Current physical time: 1425602852104
+Entering CS - Node 1
+Current physical time: 1425602852152
+Current physical time: 1425602852183
+Entering CS - Node 8
+Current physical time: 1425602852230
+Current physical time: 1425602852260
+Entering CS - Node 2
+Current physical time: 1425602852308
+Current physical time: 1425602852338
+Entering CS - Node 4
+Current physical time: 1425602852530
+Current physical time: 1425602852560
+Entering CS - Node 5
+Current physical time: 1425602852605
+Current physical time: 1425602852636
+Entering CS - Node 6
+Current physical time: 1425602852684
+Current physical time: 1425602852714
+Entering CS - Node 9
+Current physical time: 1425602852763
+Current physical time: 1425602852794
+Entering CS - Node 12
+Current physical time: 1425602852842
+Current physical time: 1425602852873
+Entering CS - Node 7
+Current physical time: 1425602852919
+Current physical time: 1425602852949
+Entering CS - Node 1
+Current physical time: 1425602853006
+Current physical time: 1425602853036
+Entering CS - Node 8
+Current physical time: 1425602853084
+Current physical time: 1425602853114
+Entering CS - Node 3
+Current physical time: 1425602853161
+Current physical time: 1425602853191
+Entering CS - Node 2
+Current physical time: 1425602853249
+Current physical time: 1425602853280
+Entering CS - Node 4
+Current physical time: 1425602853331
+Current physical time: 1425602853361
+Entering CS - Node 5
+Current physical time: 1425602853406
+Current physical time: 1425602853437
+Entering CS - Node 6
+Current physical time: 1425602853485
+Current physical time: 1425602853515
+Entering CS - Node 9
+Current physical time: 1425602853563
+Current physical time: 1425602853593
+Entering CS - Node 12
+Current physical time: 1425602853642
+Current physical time: 1425602853672
+Entering CS - Node 1
+Current physical time: 1425602853681
+Current physical time: 1425602853711
+Entering CS - Node 7
+Current physical time: 1425602853731
+Current physical time: 1425602853761
+Entering CS - Node 8
+Current physical time: 1425602853809
+Current physical time: 1425602853839
+Entering CS - Node 3
+Current physical time: 1425602853886
+Current physical time: 1425602853916
+Entering CS - Node 2
+Current physical time: 1425602853986
+Current physical time: 1425602854016
+Entering CS - Node 4
+Current physical time: 1425602854067
+Current physical time: 1425602854098
+Entering CS - Node 5
+Current physical time: 1425602854144
+Current physical time: 1425602854175
+Entering CS - Node 6
+Current physical time: 1425602854223
+Current physical time: 1425602854253
+Entering CS - Node 9
+Current physical time: 1425602854302
+Current physical time: 1425602854333
+Entering CS - Node 1
+Current physical time: 1425602854342
+Current physical time: 1425602854372
+Entering CS - Node 12
+Current physical time: 1425602854388
+Current physical time: 1425602854419
+Entering CS - Node 7
+Current physical time: 1425602854520
+Current physical time: 1425602854551
+Entering CS - Node 8
+Current physical time: 1425602854598
+Current physical time: 1425602854628
+Entering CS - Node 3
+Current physical time: 1425602854676
+Current physical time: 1425602854706
+Entering CS - Node 2
+Current physical time: 1425602854755
+Current physical time: 1425602854786
+Entering CS - Node 4
+Current physical time: 1425602854930
+Current physical time: 1425602854960
+Entering CS - Node 5
+Current physical time: 1425602855025
+Current physical time: 1425602855056
+Entering CS - Node 6
+Current physical time: 1425602855105
+Current physical time: 1425602855135
+Entering CS - Node 9
+Current physical time: 1425602855183
+Current physical time: 1425602855214
+Entering CS - Node 12
+Current physical time: 1425602855261
+Current physical time: 1425602855291
+Entering CS - Node 7
+Current physical time: 1425602855413
+Current physical time: 1425602855443
+Entering CS - Node 8
+Current physical time: 1425602855580
+Current physical time: 1425602855611
+Entering CS - Node 3
+Current physical time: 1425602855658
+Current physical time: 1425602855688
+Entering CS - Node 4
+Current physical time: 1425602855697
+Current physical time: 1425602855728
+Entering CS - Node 5
+Current physical time: 1425602855784
+Current physical time: 1425602855820
+Entering CS - Node 2
+Current physical time: 1425602855828
+Current physical time: 1425602855859
+Entering CS - Node 6
+Current physical time: 1425602855907
+Current physical time: 1425602855937
+Entering CS - Node 9
+Current physical time: 1425602855984
+Current physical time: 1425602856015
+Entering CS - Node 1
+Current physical time: 1425602856062
+Current physical time: 1425602856092
+Entering CS - Node 12
+Current physical time: 1425602856139
+Current physical time: 1425602856169
+Entering CS - Node 8
+Current physical time: 1425602856177
+Current physical time: 1425602856207
+Entering CS - Node 3
+Current physical time: 1425602856255
+Current physical time: 1425602856285
+Entering CS - Node 7
+Current physical time: 1425602856297
+Current physical time: 1425602856327
+Entering CS - Node 4
+Current physical time: 1425602856376
+Current physical time: 1425602856406
+Entering CS - Node 5
+Current physical time: 1425602856452
+Current physical time: 1425602856483
+Entering CS - Node 2
+Current physical time: 1425602856529
+Current physical time: 1425602856560
+Entering CS - Node 6
+Current physical time: 1425602856630
+Current physical time: 1425602856660
+Entering CS - Node 9
+Current physical time: 1425602856706
+Current physical time: 1425602856737
+Entering CS - Node 1
+Current physical time: 1425602856784
+Current physical time: 1425602856814
+Entering CS - Node 12
+Current physical time: 1425602856863
+Current physical time: 1425602856893
+Entering CS - Node 8
+Current physical time: 1425602856972
+Current physical time: 1425602857003
+Entering CS - Node 7
+Current physical time: 1425602857051
+Current physical time: 1425602857081
+Entering CS - Node 3
+Current physical time: 1425602857088
+Current physical time: 1425602857118
+Entering CS - Node 4
+Current physical time: 1425602857165
+Current physical time: 1425602857196
+Entering CS - Node 5
+Current physical time: 1425602857243
+Current physical time: 1425602857274
+Entering CS - Node 2
+Current physical time: 1425602857322
+Current physical time: 1425602857352
+Entering CS - Node 6
+Current physical time: 1425602857400
+Current physical time: 1425602857430
+Entering CS - Node 9
+Current physical time: 1425602857477
+Current physical time: 1425602857508
+Entering CS - Node 1
+Current physical time: 1425602857555
+Current physical time: 1425602857585
+Entering CS - Node 8
+Current physical time: 1425602857594
+Current physical time: 1425602857624
+Entering CS - Node 12
+Current physical time: 1425602857649
+Current physical time: 1425602857679
+Entering CS - Node 7
+Current physical time: 1425602857727
+Current physical time: 1425602857757
+Entering CS - Node 3
+Current physical time: 1425602857803
+Current physical time: 1425602857833
+Entering CS - Node 4
+Current physical time: 1425602857881
+Current physical time: 1425602857912
+Entering CS - Node 5
+Current physical time: 1425602857958
+Current physical time: 1425602857989
+Entering CS - Node 2
+Current physical time: 1425602858036
+Current physical time: 1425602858067
+Entering CS - Node 6
+Current physical time: 1425602858134
+Current physical time: 1425602858165
+Entering CS - Node 9
+Current physical time: 1425602858211
+Current physical time: 1425602858242
+Entering CS - Node 8
+Current physical time: 1425602858291
+Current physical time: 1425602858321
+Entering CS - Node 12
+Current physical time: 1425602858403
+Current physical time: 1425602858434
+Entering CS - Node 7
+Current physical time: 1425602858548
+Current physical time: 1425602858578
+Entering CS - Node 3
+Current physical time: 1425602858624
+Current physical time: 1425602858654
+Entering CS - Node 4
+Current physical time: 1425602858703
+Current physical time: 1425602858733
+Entering CS - Node 5
+Current physical time: 1425602858780
+Current physical time: 1425602858810
+Entering CS - Node 2
+Current physical time: 1425602858858
+Current physical time: 1425602858889
+Entering CS - Node 6
+Current physical time: 1425602858949
+Current physical time: 1425602858979
+Entering CS - Node 9
+Current physical time: 1425602859025
+Current physical time: 1425602859055
+Entering CS - Node 1
+Current physical time: 1425602859102
+Current physical time: 1425602859132
+Entering CS - Node 8
+Current physical time: 1425602859180
+Current physical time: 1425602859210
+Entering CS - Node 12
+Current physical time: 1425602859257
+Current physical time: 1425602859287
+Entering CS - Node 7
+Current physical time: 1425602859295
+Current physical time: 1425602859325
+Entering CS - Node 3
+Current physical time: 1425602859373
+Current physical time: 1425602859403
+Entering CS - Node 4
+Current physical time: 1425602859452
+Current physical time: 1425602859482
+Entering CS - Node 5
+Current physical time: 1425602859529
+Current physical time: 1425602859559
+Entering CS - Node 2
+Current physical time: 1425602859620
+Current physical time: 1425602859651
+Entering CS - Node 6
+Current physical time: 1425602859700
+Current physical time: 1425602859730
+Entering CS - Node 9
+Current physical time: 1425602859778
+Current physical time: 1425602859809
+Entering CS - Node 1
+Current physical time: 1425602859856
+Current physical time: 1425602859887
+Entering CS - Node 8
+Current physical time: 1425602859938
+Current physical time: 1425602859968
+Entering CS - Node 7
+Current physical time: 1425602860016
+Current physical time: 1425602860046
+Entering CS - Node 12
+Current physical time: 1425602860119
+Current physical time: 1425602860150
+Entering CS - Node 3
+Current physical time: 1425602860199
+Current physical time: 1425602860230
+Entering CS - Node 4
+Current physical time: 1425602860280
+Current physical time: 1425602860310
+Entering CS - Node 5
+Current physical time: 1425602860369
+Current physical time: 1425602860399
+Entering CS - Node 2
+Current physical time: 1425602860430
+Current physical time: 1425602860460
+Entering CS - Node 6
+Current physical time: 1425602860509
+Current physical time: 1425602860539
+Entering CS - Node 9
+Current physical time: 1425602860588
+Current physical time: 1425602860619
+Entering CS - Node 1
+Current physical time: 1425602860665
+Current physical time: 1425602860696
+Entering CS - Node 7
+Current physical time: 1425602860744
+Current physical time: 1425602860774
+Entering CS - Node 12
+Current physical time: 1425602860824
+Current physical time: 1425602860854
+Entering CS - Node 3
+Current physical time: 1425602860902
+Current physical time: 1425602860932
+Entering CS - Node 8
+Current physical time: 1425602860940
+Current physical time: 1425602860970
+Entering CS - Node 5
+Current physical time: 1425602861016
+Current physical time: 1425602861047
+Entering CS - Node 9
+Current physical time: 1425602861054
+Current physical time: 1425602861084
+Entering CS - Node 1
+Current physical time: 1425602861132
+Current physical time: 1425602861162
+Entering CS - Node 4
+Current physical time: 1425602861169
+Current physical time: 1425602861199
+Entering CS - Node 7
+Current physical time: 1425602861212
+Current physical time: 1425602861242
+Entering CS - Node 3
+Current physical time: 1425602861249
+Current physical time: 1425602861279
+Entering CS - Node 2
+Current physical time: 1425602861323
+Current physical time: 1425602861353
+Entering CS - Node 5
+Current physical time: 1425602861400
+Current physical time: 1425602861431
+Entering CS - Node 9
+Current physical time: 1425602861487
+Current physical time: 1425602861517
+Entering CS - Node 1
+Current physical time: 1425602861564
+Current physical time: 1425602861595
+Entering CS - Node 7
+Current physical time: 1425602861690
+Current physical time: 1425602861721
+Entering CS - Node 3
+Current physical time: 1425602861768
+Current physical time: 1425602861798
+Entering CS - Node 8
+Current physical time: 1425602861846
+Current physical time: 1425602861876
+Entering CS - Node 5
+Current physical time: 1425602861921
+Current physical time: 1425602861952
+Entering CS - Node 12
+Current physical time: 1425602861960
+Current physical time: 1425602861991
+Entering CS - Node 9
+Current physical time: 1425602862039
+Current physical time: 1425602862070
+Entering CS - Node 1
+Current physical time: 1425602862119
+Current physical time: 1425602862149
+Entering CS - Node 4
+Current physical time: 1425602862198
+Current physical time: 1425602862229
+Entering CS - Node 7
+Current physical time: 1425602862277
+Current physical time: 1425602862307
+Entering CS - Node 2
+Current physical time: 1425602862354
+Current physical time: 1425602862385
+Entering CS - Node 3
+Current physical time: 1425602862433
+Current physical time: 1425602862463
+Entering CS - Node 5
+Current physical time: 1425602862473
+Current physical time: 1425602862504
+Entering CS - Node 6
+Current physical time: 1425602862553
+Current physical time: 1425602862583
+Entering CS - Node 9
+Current physical time: 1425602862630
+Current physical time: 1425602862661
+Entering CS - Node 1
+Current physical time: 1425602862707
+Current physical time: 1425602862738
+Entering CS - Node 7
+Current physical time: 1425602862745
+Current physical time: 1425602862775
+Entering CS - Node 8
+Current physical time: 1425602862789
+Current physical time: 1425602862820
+Entering CS - Node 12
+Current physical time: 1425602862868
+Current physical time: 1425602862898
+Entering CS - Node 3
+Current physical time: 1425602862945
+Current physical time: 1425602862975
+Entering CS - Node 5
+Current physical time: 1425602863023
+Current physical time: 1425602863054
+Entering CS - Node 9
+Current physical time: 1425602863062
+Current physical time: 1425602863093
+Entering CS - Node 4
+Current physical time: 1425602863102
+Current physical time: 1425602863132
+Entering CS - Node 7
+Current physical time: 1425602863188
+Current physical time: 1425602863218
+Entering CS - Node 2
+Current physical time: 1425602863319
+Current physical time: 1425602863349
+Entering CS - Node 6
+Current physical time: 1425602863397
+Current physical time: 1425602863427
+Entering CS - Node 3
+Current physical time: 1425602863477
+Current physical time: 1425602863507
+Entering CS - Node 5
+Current physical time: 1425602863553
+Current physical time: 1425602863584
+Entering CS - Node 9
+Current physical time: 1425602863630
+Current physical time: 1425602863660
+Entering CS - Node 7
+Current physical time: 1425602863721
+Current physical time: 1425602863751
+Entering CS - Node 1
+Current physical time: 1425602863801
+Current physical time: 1425602863831
+Entering CS - Node 12
+Current physical time: 1425602863878
+Current physical time: 1425602863908
+Entering CS - Node 8
+Current physical time: 1425602863916
+Current physical time: 1425602863946
+Entering CS - Node 4
+Current physical time: 1425602863993
+Current physical time: 1425602864024
+Entering CS - Node 3
+Current physical time: 1425602864071
+Current physical time: 1425602864101
+Entering CS - Node 5
+Current physical time: 1425602864147
+Current physical time: 1425602864178
+Entering CS - Node 9
+Current physical time: 1425602864224
+Current physical time: 1425602864254
+Entering CS - Node 7
+Current physical time: 1425602864305
+Current physical time: 1425602864335
+Entering CS - Node 1
+Current physical time: 1425602864384
+Current physical time: 1425602864415
+Entering CS - Node 2
+Current physical time: 1425602864462
+Current physical time: 1425602864492
+Entering CS - Node 6
+Current physical time: 1425602864540
+Current physical time: 1425602864570
+Entering CS - Node 3
+Current physical time: 1425602864581
+Current physical time: 1425602864611
+Entering CS - Node 5
+Current physical time: 1425602864657
+Current physical time: 1425602864688
+Entering CS - Node 9
+Current physical time: 1425602864734
+Current physical time: 1425602864765
+Entering CS - Node 12
+Current physical time: 1425602864772
+Current physical time: 1425602864802
+Entering CS - Node 7
+Current physical time: 1425602864820
+Current physical time: 1425602864850
+Entering CS - Node 1
+Current physical time: 1425602864940
+Current physical time: 1425602864970
+Entering CS - Node 8
+Current physical time: 1425602865019
+Current physical time: 1425602865049
+Entering CS - Node 4
+Current physical time: 1425602865096
+Current physical time: 1425602865127
+Entering CS - Node 3
+Current physical time: 1425602865175
+Current physical time: 1425602865205
+Entering CS - Node 5
+Current physical time: 1425602865254
+Current physical time: 1425602865285
+Entering CS - Node 9
+Current physical time: 1425602865331
+Current physical time: 1425602865361
+Entering CS - Node 7
+Current physical time: 1425602865390
+Current physical time: 1425602865420
+Entering CS - Node 1
+Current physical time: 1425602865433
+Current physical time: 1425602865463
+Entering CS - Node 2
+Current physical time: 1425602865564
+Current physical time: 1425602865594
+Entering CS - Node 6
+Current physical time: 1425602865640
+Current physical time: 1425602865670
+Entering CS - Node 3
+Current physical time: 1425602865680
+Current physical time: 1425602865710
+Entering CS - Node 12
+Current physical time: 1425602865717
+Current physical time: 1425602865747
+Entering CS - Node 9
+Current physical time: 1425602865815
+Current physical time: 1425602865846
+Entering CS - Node 7
+Current physical time: 1425602865893
+Current physical time: 1425602865923
+Entering CS - Node 1
+Current physical time: 1425602866029
+Current physical time: 1425602866060
+Entering CS - Node 4
+Current physical time: 1425602866068
+Current physical time: 1425602866098
+Entering CS - Node 8
+Current physical time: 1425602866108
+Current physical time: 1425602866138
+Entering CS - Node 3
+Current physical time: 1425602866145
+Current physical time: 1425602866175
+Entering CS - Node 9
+Current physical time: 1425602866221
+Current physical time: 1425602866251
+Entering CS - Node 5
+Current physical time: 1425602866303
+Current physical time: 1425602866334
+Entering CS - Node 7
+Current physical time: 1425602866381
+Current physical time: 1425602866411
+Entering CS - Node 1
+Current physical time: 1425602866418
+Current physical time: 1425602866448
+Entering CS - Node 2
+Current physical time: 1425602866580
+Current physical time: 1425602866610
+Entering CS - Node 3
+Current physical time: 1425602866657
+Current physical time: 1425602866687
+Entering CS - Node 12
+Current physical time: 1425602866734
+Current physical time: 1425602866764
+Entering CS - Node 6
+Current physical time: 1425602866892
+Current physical time: 1425602866922
+Entering CS - Node 9
+Current physical time: 1425602866970
+Current physical time: 1425602867001
+Entering CS - Node 5
+Current physical time: 1425602867047
+Current physical time: 1425602867078
+Entering CS - Node 7
+Current physical time: 1425602867128
+Current physical time: 1425602867158
+Entering CS - Node 1
+Current physical time: 1425602867217
+Current physical time: 1425602867247
+Entering CS - Node 4
+Current physical time: 1425602867302
+Current physical time: 1425602867333
+Entering CS - Node 8
+Current physical time: 1425602867384
+Current physical time: 1425602867414
+Entering CS - Node 3
+Current physical time: 1425602867421
+Current physical time: 1425602867451
+Entering CS - Node 9
+Current physical time: 1425602867457
+Current physical time: 1425602867487
+Entering CS - Node 5
+Current physical time: 1425602867545
+Current physical time: 1425602867576
+Entering CS - Node 2
+Current physical time: 1425602867584
+Current physical time: 1425602867615
+Entering CS - Node 7
+Current physical time: 1425602867662
+Current physical time: 1425602867692
+Entering CS - Node 1
+Current physical time: 1425602867739
+Current physical time: 1425602867769
+Entering CS - Node 12
+Current physical time: 1425602867776
+Current physical time: 1425602867807
+Entering CS - Node 6
+Current physical time: 1425602867858
+Current physical time: 1425602867888
+Entering CS - Node 3
+Current physical time: 1425602867897
+Current physical time: 1425602867927
+Entering CS - Node 9
+Current physical time: 1425602867973
+Current physical time: 1425602868003
+Entering CS - Node 5
+Current physical time: 1425602868051
+Current physical time: 1425602868082
+Entering CS - Node 7
+Current physical time: 1425602868180
+Current physical time: 1425602868210
+Entering CS - Node 1
+Current physical time: 1425602868258
+Current physical time: 1425602868289
+Entering CS - Node 4
+Current physical time: 1425602868335
+Current physical time: 1425602868366
+Entering CS - Node 8
+Current physical time: 1425602868411
+Current physical time: 1425602868441
+Entering CS - Node 3
+Current physical time: 1425602868487
+Current physical time: 1425602868517
+Entering CS - Node 9
+Current physical time: 1425602868565
+Current physical time: 1425602868595
+Entering CS - Node 5
+Current physical time: 1425602868641
+Current physical time: 1425602868672
+Entering CS - Node 2
+Current physical time: 1425602868719
+Current physical time: 1425602868750
+Entering CS - Node 7
+Current physical time: 1425602868804
+Current physical time: 1425602868834
+Entering CS - Node 1
+Current physical time: 1425602869090
+Current physical time: 1425602869121
+Entering CS - Node 12
+Current physical time: 1425602869168
+Current physical time: 1425602869198
+Entering CS - Node 6
+Current physical time: 1425602869282
+Current physical time: 1425602869312
+Entering CS - Node 3
+Current physical time: 1425602869330
+Current physical time: 1425602869360
+Entering CS - Node 9
+Current physical time: 1425602869406
+Current physical time: 1425602869436
+Entering CS - Node 5
+Current physical time: 1425602869482
+Current physical time: 1425602869513
+Entering CS - Node 4
+Current physical time: 1425602869520
+Current physical time: 1425602869551
+Entering CS - Node 8
+Current physical time: 1425602869598
+Current physical time: 1425602869628
+Entering CS - Node 7
+Current physical time: 1425602869675
+Current physical time: 1425602869706
+Entering CS - Node 1
+Current physical time: 1425602869754
+Current physical time: 1425602869784
+Entering CS - Node 2
+Current physical time: 1425602869791
+Current physical time: 1425602869822
+Entering CS - Node 3
+Current physical time: 1425602869869
+Current physical time: 1425602869899
+Entering CS - Node 9
+Current physical time: 1425602869948
+Current physical time: 1425602869979
+Entering CS - Node 5
+Current physical time: 1425602870024
+Current physical time: 1425602870055
+Entering CS - Node 12
+Current physical time: 1425602870063
+Current physical time: 1425602870093
+Entering CS - Node 7
+Current physical time: 1425602870139
+Current physical time: 1425602870169
+Entering CS - Node 6
+Current physical time: 1425602870176
+Current physical time: 1425602870207
+Entering CS - Node 1
+Current physical time: 1425602870255
+Current physical time: 1425602870286
+Entering CS - Node 3
+Current physical time: 1425602870293
+Current physical time: 1425602870323
+Entering CS - Node 4
+Current physical time: 1425602870340
+Current physical time: 1425602870370
+Entering CS - Node 9
+Current physical time: 1425602870384
+Current physical time: 1425602870414
+Entering CS - Node 8
+Current physical time: 1425602870422
+Current physical time: 1425602870453
+Entering CS - Node 5
+Current physical time: 1425602870498
+Current physical time: 1425602870529
+Entering CS - Node 7
+Current physical time: 1425602870577
+Current physical time: 1425602870671
+Entering CS - Node 1
+Current physical time: 1425602870720
+Current physical time: 1425602870750
+Entering CS - Node 2
+Current physical time: 1425602870799
+Current physical time: 1425602870829
+Entering CS - Node 3
+Current physical time: 1425602870877
+Current physical time: 1425602870907
+Entering CS - Node 9
+Current physical time: 1425602870956
+Current physical time: 1425602870986
+Entering CS - Node 5
+Current physical time: 1425602871035
+Current physical time: 1425602871066
+Entering CS - Node 12
+Current physical time: 1425602871115
+Current physical time: 1425602871145
+Entering CS - Node 6
+Current physical time: 1425602871193
+Current physical time: 1425602871223
+Entering CS - Node 7
+Current physical time: 1425602871269
+Current physical time: 1425602871300
+Entering CS - Node 4
+Current physical time: 1425602871307
+Current physical time: 1425602871338
+Entering CS - Node 8
+Current physical time: 1425602871385
+Current physical time: 1425602871415
+Entering CS - Node 2
+Current physical time: 1425602871462
+Current physical time: 1425602871492
+Entering CS - Node 12
+Current physical time: 1425602871775
+Current physical time: 1425602871805
+Entering CS - Node 6
+Current physical time: 1425602871852
+Current physical time: 1425602871882
+Entering CS - Node 4
+Current physical time: 1425602871932
+Current physical time: 1425602871962
+Entering CS - Node 8
+Current physical time: 1425602872127
+Current physical time: 1425602872157
+Entering CS - Node 2
+Current physical time: 1425602872233
+Current physical time: 1425602872264
+Entering CS - Node 12
+Current physical time: 1425602872415
+Current physical time: 1425602872445
+Entering CS - Node 6
+Current physical time: 1425602872509
+Current physical time: 1425602872539
+Entering CS - Node 4
+Current physical time: 1425602872613
+Current physical time: 1425602872644
+Entering CS - Node 8
+Current physical time: 1425602872770
+Current physical time: 1425602872800
+Entering CS - Node 2
+Current physical time: 1425602873003
+Current physical time: 1425602873033
+Entering CS - Node 12
+Current physical time: 1425602873232
+Current physical time: 1425602873262
+Entering CS - Node 6
+Current physical time: 1425602873316
+Current physical time: 1425602873346
+Entering CS - Node 8
+Current physical time: 1425602873439
+Current physical time: 1425602873469
+Entering CS - Node 2
+Current physical time: 1425602873656
+Current physical time: 1425602873686
+Entering CS - Node 12
+Current physical time: 1425602873874
+Current physical time: 1425602873905
+Entering CS - Node 6
+Current physical time: 1425602873954
+Current physical time: 1425602873984
+Entering CS - Node 4
+Current physical time: 1425602874030
+Current physical time: 1425602874061
+Entering CS - Node 8
+Current physical time: 1425602874108
+Current physical time: 1425602874138
+Entering CS - Node 2
+Current physical time: 1425602874358
+Current physical time: 1425602874389
+Entering CS - Node 12
+Current physical time: 1425602874436
+Current physical time: 1425602874466
+Entering CS - Node 6
+Current physical time: 1425602874522
+Current physical time: 1425602874552
+Entering CS - Node 8
+Current physical time: 1425602874719
+Current physical time: 1425602874749
+Entering CS - Node 4
+Current physical time: 1425602874756
+Current physical time: 1425602874786
+Entering CS - Node 2
+Current physical time: 1425602874958
+Current physical time: 1425602874989
+Entering CS - Node 12
+Current physical time: 1425602875083
+Current physical time: 1425602875113
+Entering CS - Node 6
+Current physical time: 1425602875173
+Current physical time: 1425602875203
+Entering CS - Node 8
+Current physical time: 1425602875336
+Current physical time: 1425602875366
+Entering CS - Node 4
+Current physical time: 1425602875750
+Current physical time: 1425602875781
+Entering CS - Node 2
+Current physical time: 1425602875832
+Current physical time: 1425602875862
+Entering CS - Node 12
+Current physical time: 1425602875911
+Current physical time: 1425602875941
+Entering CS - Node 6
+Current physical time: 1425602875998
+Current physical time: 1425602876028
+Entering CS - Node 8
+Current physical time: 1425602876082
+Current physical time: 1425602876112
+Entering CS - Node 4
+Current physical time: 1425602876392
+Current physical time: 1425602876422
+Entering CS - Node 2
+Current physical time: 1425602876474
+Current physical time: 1425602876504
+Entering CS - Node 12
+Current physical time: 1425602876551
+Current physical time: 1425602876582
+Entering CS - Node 6
+Current physical time: 1425602876631
+Current physical time: 1425602876661
+Entering CS - Node 8
+Current physical time: 1425602876716
+Current physical time: 1425602876746
+Entering CS - Node 4
+Current physical time: 1425602877002
+Current physical time: 1425602877033
+Entering CS - Node 2
+Current physical time: 1425602877123
+Current physical time: 1425602877154
+Entering CS - Node 12
+Current physical time: 1425602877234
+Current physical time: 1425602877264
+Entering CS - Node 6
+Current physical time: 1425602877312
+Current physical time: 1425602877342

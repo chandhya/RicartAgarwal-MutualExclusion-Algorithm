@@ -1,0 +1,32 @@
+Analysis:
+--------
+Phase 1:
+-As per the algorithm, the max no of messages per CS entry should be 2*(N-1).
+-From the data collection, we observe that, for each CS entry, the msgs exchanged do not exceed 18.
+-And they remain 18 for most of the first 20 critical section entries.
+-The latency values are not significantly different for the 20 something entries(The time between request is made and the time the node gets to enter CS)
+
+Phase 2:
+-Since odd numbered nodes request faster,and their request set is reduced, we can see the optimization in work here.
+(i.e) Once they have received the reply from a certain set of nodes, they don't request again.
+-After 21st entry into CS, the wait times are significantly reduced.
+ The reason is that odd nodes are requesting at a faster rate and the even numbered nodes request less frequently,which in turn means 
+ the number of replies an odd/even numbered node needs to wait for is reduced thereby reducing the wait time.
+-The same trend explained above happens with even numbered nodes,
+ Even nodes request for a while among themselves,since the odd nodes complete 40 CS entries early on.
+-Reduction in Wait times(latency)  is much more pronounced in the even numbered nodes.
+
+General observations about MSgs exchanged:
+------------------------------------------
+Maximum number of msgs by any node(per CS entry) :18
+Minimum number of msgs by any node(per CS entry) :6
+
+CORRECTNESS:
+------------
+The aggregate report contains physical times, indicating when the nodes enter and exit. 
+No two nodes enter the CS together at any point in time.
+
+FAIRNESS:
+----------
+The order in which nodes enter CS, can also be observed from the report, since nodes don't enter repeatedly until, every other requesting node has a chance to enter.
+ 
